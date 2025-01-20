@@ -1,1 +1,1 @@
-# Object_Detection_Tracking_System
+# Object detection, tracking and captioning system
