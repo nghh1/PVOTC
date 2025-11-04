@@ -1,4 +1,4 @@
-# Prompt-guided Video Object Tracking and Captioning Application
+# Prompt-guided Video Object Tracking and Captioning App
 ![demo](demo.png)
 Please read carefully about the requirements for packages and execution.
 ## Files included
